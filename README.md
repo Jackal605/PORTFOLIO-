@@ -1,2 +1,0 @@
-# Junlienp
-a simple portfolio
